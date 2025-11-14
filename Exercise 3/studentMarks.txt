@@ -1,0 +1,11 @@
+10
+8431,Leon Kennedy,12,13,14,68
+8432,Jill Valentine,17,15,16,82
+8433,Ellie Williams,10,11,12,55
+8434,Joel Miller,8,9,10,45
+8435,Sherlock Holmes,18,17,19,92
+8436,Albert Wesker,14,15,13,70
+8437,Jake Sully,9,10,11,50
+8438,Carter,13,14,12,65
+8439,Lee,16,17,15,78
+8440,Soo Yung,11,12,13,60
